@@ -3,7 +3,7 @@ Island generation using cellular automata.
 
 Inspired by https://meltingasphalt.com/interactive/outbreak/
 
-Made for the following challenge posted by javidx9 in OLC discord server:
+Made for the following 2023 Gorbit Challenge #4 posted by javidx9 in OLC discord server:
 ```
 Write a program that creates a 60x20 character "treasure map" of 6 islands, where:
      '~' represents the sea
